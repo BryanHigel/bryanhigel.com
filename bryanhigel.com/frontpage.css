@@ -20,3 +20,8 @@ h3 {
     text-align: center;
 }
 
+p{
+    font-style: italic;
+    font-size: 100%;
+    text-justify: auto;
+}
