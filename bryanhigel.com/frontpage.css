@@ -1,0 +1,22 @@
+* {background-color: blueviolet;}
+
+h1 {
+    font-size: 40px;
+    color: chocolate;
+    text-align: center;
+    text-shadow: 1px 1px 1px black,
+                 2px 2px 2px black;
+}
+
+h2 {
+    font-size: 20px;
+    color: brown;
+    text-align: center;
+}
+
+h3 {
+    font-size: 5px;
+    color: khaki;
+    text-align: center;
+}
+
