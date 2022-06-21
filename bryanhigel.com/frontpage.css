@@ -1,6 +1,6 @@
-* {background-color: blueviolet;}
+*{background-color: blueviolet;}
 
-h1 {
+h1{
     font-size: 40px;
     color: chocolate;
     text-align: center;
@@ -8,13 +8,13 @@ h1 {
                  2px 2px 2px black;
 }
 
-h2 {
+h2{
     font-size: 20px;
     color: brown;
     text-align: center;
 }
 
-h3 {
+h3{
     font-size: 5px;
     color: khaki;
     text-align: center;
@@ -26,13 +26,14 @@ p{
     text-justify: auto;
 }
 
-#flex-container {
+.container{
     justify-content: center;
     display: flex;
+    vertical-align: auto; 
 }
 
-img {
+img{
     max-width: 30%;
     max-height: 30%;
-    
+    align-content: center;
   }
